@@ -27,3 +27,4 @@ Zastosowany został współbieżny serwer TCP w języku c++ z użyciem procesów
 Kompilacja i uruchomienie serwera g++ -Wall-o server.o server.cpp Następnie ./server.o
 Uruchomienie klienta python main.python
 Następnie wypełniamy wszystkie pola na górze panelu i klikamy połącz
+![GUI klienta](gui.jpg)
